@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "D:/nvh/dev/c/nephis/repo/",
+    "command": "gcc -g -Iexternal/raylib/src/ -Iexternal/tomlc17/src/ -Iinclude -o main.exe src/main.c"
+    "file": "src/main.c"
+  }
+]

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/nvh/dev/c/nephis/repo/build/cmake_install.cmake",
+		"D:/nvh/dev/c/nephis/repo/build/external/raylib/cmake_install.cmake",
+		"D:/nvh/dev/c/nephis/repo/build/external/raylib/raylib/cmake_install.cmake",
+		"D:/nvh/dev/c/nephis/repo/build/external/raylib/raylib/external/glfw/cmake_install.cmake",
+		"D:/nvh/dev/c/nephis/repo/build/external/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
